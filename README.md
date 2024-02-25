@@ -1,13 +1,8 @@
 # youtube-history
 Finds what your most watched videos were each month on YouTube. 
 
-Example output:  
+Example output snippet:  
 ```
-~~~2019~~~
-~~~january~~~
-~~~feburary~~~
-~~~march~~~
-~~~april~~~
 ~~~may~~~
 title:  Andy Shauf - "To You" (Full Album Stream)
 freq:   10
